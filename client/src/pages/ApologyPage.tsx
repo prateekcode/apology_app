@@ -231,7 +231,7 @@ const ApologyPage = () => {
         
         {/* Footer */}
         <footer className="mt-4 text-sm text-gray-600">
-          <p className="font-dancing text-base">Made with too much love by Your Name</p>
+          <p className="font-dancing text-base">Made with too much love by Prateek❤️</p>
           <p className="text-xs mt-1 italic">💖 Because you deserve all the love in the world 💖</p>
         </footer>
       </motion.main>
